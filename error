@@ -2,7 +2,7 @@ if script_key then
 return
 end
 --Put Your Key Between ""
-script_key= "nppGJNzoaHttkR×HSJFtK×EOkBfmGBfA";
+script_key="nppGJNzoaHttkR×HSJFtK×EOkBfmGBfA";
 DelayTime = 300
 getgenv().FpsBoost = false
 getgenv().Setting = {
